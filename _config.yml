@@ -21,12 +21,12 @@ title_separator          : "-"
 subtitle                 : 여러가지 기술 관련 블로그
 name                     : "김관희"
 description              : "검색엔진, 빅데이터, 프론트엔드, 백엔드, 디자인, 분석, 딥러닝 다하는 슈퍼개발자."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kennykim1990.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "kennykim1990/kennykim1990.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Hello Kenny!"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Gwanhee Kim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul,Korea"
+  email            : "gwanhee.kim@konantech.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
