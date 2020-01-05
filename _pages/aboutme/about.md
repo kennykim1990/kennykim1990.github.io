@@ -1,8 +1,8 @@
 ---
 layout: single
 permalink: /about/
-title: "Who Am I (CV)"
-header:
+#title: "Who Am I (CV)"
+#header:
 #  overlay_image: /assets/images/staff_sbnu.jpg
 ---
 
