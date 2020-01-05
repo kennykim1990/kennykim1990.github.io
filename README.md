@@ -56,6 +56,5 @@ Data Visualization을 좋아하여 여러 시각화 프로젝트를 만들어 �
 ## Contact
 
 - Email
-
   - gwanhee.kim@konantech.com
   - kkh900629@gmail.com
