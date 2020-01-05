@@ -112,7 +112,7 @@ author:
   bio              : "I am Kenny."
   location         : "Seoul,Korea"
   email            : "gwanhee.kim@konantech.com"
-  repository       : "kennykim1990/kennykim1990.github.io"
+  github           : "kennykim1990"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
