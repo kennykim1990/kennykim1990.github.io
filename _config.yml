@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en"
+locale                   : "ko"
 title                    : "Kenny의 기술블로그"
 title_separator          : "-"
 subtitle                 : 여러가지 기술 관련 블로그
@@ -279,6 +279,10 @@ compress_html:
   ignore:
     envs: development
 
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "kennykim1990"
 
 # Defaults
 defaults:
@@ -290,6 +294,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
