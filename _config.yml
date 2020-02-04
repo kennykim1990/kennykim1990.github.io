@@ -24,8 +24,8 @@ description              : "검색엔진, 빅데이터, 프론트엔드, 백엔�
 url                      : "https://kennykim1990.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kennykim1990/kennykim1990.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+teaser                   : /assets/images/laptop.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : /assets/images/laptop.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Hello Kenny!"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
