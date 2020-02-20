@@ -1,12 +1,10 @@
 ---
 layout: single
 permalink: /about/
-#title: "Who Am I (CV)"
+title: "Kim Gwanhee (Kenny Kim)"
 #header:
 #  overlay_image: /assets/images/staff_sbnu.jpg
 ---
-
-# Kim Gwanhee (Kenny Kim)
 
 안녕하세요. 개발자 김관희입니다.
 현재는 검색 및 AI 회사에서 검색관련 업무를 수행중입니다.
