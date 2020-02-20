@@ -5,8 +5,6 @@ title: "Kim Gwanhee (Kenny Kim)"
 #header:
 #  overlay_image: /assets/images/staff_sbnu.jpg
 sidebar_main : true
-toc: true
-toc_sticky: true
 ---
 
 안녕하세요. 개발자 김관희입니다.
